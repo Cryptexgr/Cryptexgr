@@ -1,6 +1,6 @@
 👋 Hi, I’m @Cryptexgr as Known ( Stelios Miskedakis )
 <hr>
-<br>
+
 <strong>Hello, My name is Stelios Miskedakis and I'm a Computer Science student from Greece.</strong>
 
 - 👨‍💻 I’m currently working on my Portfolio and Projects
